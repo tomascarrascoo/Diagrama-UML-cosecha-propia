@@ -2,7 +2,7 @@
 
 ***
 
-- El tema va a ser la gestión de una biblioteca. El sistema tiene que poder administrar libros, autores, préstamos, usuario, categorías, empleados y multas.
+- Se desea crear un sistema de gestión de una biblioteca. El sistema tiene que poder administrar libros, autores, préstamos, usuario, categorías, empleados y multas.
 
 - Un libro tiene un título, un ISBN, una categoría y una editorial. Cada libro puede ser escrito por uno o más autores. Un autor tiene un nombre y una nacionalidad.
 
