@@ -11,3 +11,8 @@
 - Cuando un préstamo no se devuelve en la fecha acordada, se hace una multa. Cada multa está ligada a un préstamo y tiene un monto y una fecha de pago.
 
 - El sistema también debe gestionar a los empleados de la biblioteca. Cada empleado tiene un nombre, un número de empleado y un cargo en la biblioteca.
+
+***
+
+### SOLUCIÓN:
+![UMlCosechaPropia](https://github.com/tomascarrascoo/Diagrama-UML-cosecha-propia/assets/122602236/4dbaf3f8-88a1-4ed5-afab-c783ebbc66a0)
