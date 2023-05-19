@@ -2,7 +2,7 @@
 
 ***
 
-- Se quiere hacer un sistema de gestión de una biblioteca. El sistema tiene que poder administrar libros, autores, préstamos, usuario, categorías, empleados y multas.
+- El tema va a ser la gestión de una biblioteca. El sistema tiene que poder administrar libros, autores, préstamos, usuario, categorías, empleados y multas.
 
 - Un libro tiene un título, un ISBN, una categoría y una editorial. Cada libro puede ser escrito por uno o más autores. Un autor tiene un nombre y una nacionalidad.
 
@@ -11,6 +11,8 @@
 - Cuando un préstamo no se devuelve en la fecha acordada, se hace una multa. Cada multa está ligada a un préstamo y tiene un monto y una fecha de pago.
 
 - El sistema también debe gestionar a los empleados de la biblioteca. Cada empleado tiene un nombre, un número de empleado y un cargo en la biblioteca.
+
+- Indica los getters y setters.
 
 ***
 
