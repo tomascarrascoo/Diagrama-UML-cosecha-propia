@@ -12,7 +12,7 @@
 
 - El sistema también debe gestionar a los empleados de la biblioteca. Cada empleado tiene un nombre, un número de empleado y un cargo en la biblioteca.
 
-- Indica los getters y setters.
+- Crea un diagrama de clases donde se represente esta información, con la cardinalidad entre clases. Indica los getters y setters.
 
 ***
 
